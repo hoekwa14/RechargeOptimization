@@ -271,7 +271,7 @@ a:link {
 
 
 /*Sticky Header Settings*/
-.sticky {
+body.sticky {
     background: #f2f2f2;
     position: sticky;
     top: 0;
