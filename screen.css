@@ -271,11 +271,11 @@ a:link {
 
 
 /*Sticky Header Settings*/
-body .sticky {
+.sticky {
     background: #f2f2f2;
     position: sticky;
     top: 0;
-    padding: 10px;
+    padding: 0px;
     border-top: 15px solid #5E2B97;
     border-bottom: 15px solid #5E2B97;
     z-index: 1;
