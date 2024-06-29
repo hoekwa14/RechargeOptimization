@@ -1,2 +1,2 @@
-# RechargeOptimization
-Expanding further on a MI 349 final project
+# boilerplate
+Basic HTML and CSS setup for simple web design
