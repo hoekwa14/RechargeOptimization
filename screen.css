@@ -1,13 +1,13 @@
 /*Universal Settings*/
 html {
     scroll-behavior: smooth;
-    background: #fff;
+    background: #ccc;
 }
 
 
 /*Body Settings*/
 body {
-    background: #fff;
+    background: #ccc;
     color: var(--color-text);
     font-family: Helvetica, sans-serif;
     line-height: var(--line-height);
